@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Datentyp_boolean { //g
+public class Datentyp_boolean {
     public static void main(String[] args) {
         boolean schalterAn, lampeAn;
         Scanner input = new Scanner(System.in);
